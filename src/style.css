@@ -3,7 +3,7 @@ body {
 }
 .weather-app {
   padding: 20px;
-  border: 1px solid blue;
+  border: 1px solid black;
   border-radius: 5px;
 }
 h1 {
