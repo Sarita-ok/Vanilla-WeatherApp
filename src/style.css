@@ -1,5 +1,7 @@
 body {
   font-family: arial, sans-serif;
+  background-image: url("images/guille-pozzi-sbcIAn4Mn14-unsplash.jpeg");
+  background-size: cover;
 }
 
 h1 {
